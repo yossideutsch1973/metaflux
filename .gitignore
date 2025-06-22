@@ -47,15 +47,15 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-# Keep generated designs but ignore large STL files
-designs/*.stl
-# Keep metadata but ignore large files
-designs/*.json
+# Ignore large STL files but keep metadata
+designs/**/*.stl
+# Keep metadata JSON files
+!designs/**/*.json
 
-# Papers (keep metadata but not large PDFs)
+# Papers (ignore large PDFs but keep folder structure)
 papers/*.pdf
 
-# Data (keep structure but not large files)
+# Data (ignore large files but keep structure)
 data/papers.json
 
 # Logs
