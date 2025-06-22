@@ -1,0 +1,27 @@
+# MetaFlux: FDM 3D-Printable Metamaterial Design Pipeline
+# Core dependencies for automated literature research and CAD generation
+
+# CAD Generation
+cadquery>=2.5.0
+cadquery-ocp>=7.7.0
+
+# HTTP requests for API calls
+requests>=2.25.0
+
+# Task automation and CLI
+invoke>=2.0.0
+
+# Numerical operations
+numpy>=1.20.0
+
+# Scientific computing (optional, for advanced features)
+scipy>=1.7.0
+
+# Development and testing
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.8.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0 

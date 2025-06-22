@@ -1,0 +1,18 @@
+{
+  "paper_id": "16348728_v1",
+  "paper_title": "A 3D-Printed, Metallic-Free, Water-Based Metamaterial for Tunable S-Band Applications",
+  "paper_folder": "A_3D-Printed_Metallic-Free_Water-Based_Metamateria",
+  "geometry_type": "patch_antenna",
+  "parameters": {
+    "period_m": 0.028000000000000004,
+    "height_m": 0.028000000000000004,
+    "thickness_m": 0.0016,
+    "period_mm": 28.000000000000004,
+    "height_mm": 28.000000000000004,
+    "thickness_mm": 1.6
+  },
+  "file_path": "/Users/yossideutsch/projects/metaflux/designs/A_3D-Printed_Metallic-Free_Water-Based_Metamateria/patch_antenna_16348728_v1_28mm_28mm.stl",
+  "generated_at": "/Users/yossideutsch/projects/metaflux",
+  "manufacturing_method": "FDM_3D_printing",
+  "scale": "millimeter_scale"
+}

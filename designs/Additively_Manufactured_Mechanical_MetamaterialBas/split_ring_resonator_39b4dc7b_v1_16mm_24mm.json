@@ -1,0 +1,18 @@
+{
+  "paper_id": "39b4dc7b_v1",
+  "paper_title": "Additively Manufactured Mechanical Metamaterial\u2010Based Pressure Sensor with Tunable Sensing Properties for Stance and Motion Analysis",
+  "paper_folder": "Additively_Manufactured_Mechanical_MetamaterialBas",
+  "geometry_type": "split_ring_resonator",
+  "parameters": {
+    "period_m": 0.016,
+    "height_m": 0.024,
+    "thickness_m": 0.0016,
+    "period_mm": 16.0,
+    "height_mm": 24.0,
+    "thickness_mm": 1.6
+  },
+  "file_path": "/Users/yossideutsch/projects/metaflux/designs/Additively_Manufactured_Mechanical_MetamaterialBas/split_ring_resonator_39b4dc7b_v1_16mm_24mm.stl",
+  "generated_at": "/Users/yossideutsch/projects/metaflux",
+  "manufacturing_method": "FDM_3D_printing",
+  "scale": "millimeter_scale"
+}

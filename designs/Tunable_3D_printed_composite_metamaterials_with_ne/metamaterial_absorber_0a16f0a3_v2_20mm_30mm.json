@@ -1,0 +1,18 @@
+{
+  "paper_id": "0a16f0a3_v2",
+  "paper_title": "Tunable 3D printed composite metamaterials with negative stiffness",
+  "paper_folder": "Tunable_3D_printed_composite_metamaterials_with_ne",
+  "geometry_type": "metamaterial_absorber",
+  "parameters": {
+    "period_m": 0.02,
+    "height_m": 0.03,
+    "thickness_m": 0.002,
+    "period_mm": 20.0,
+    "height_mm": 30.0,
+    "thickness_mm": 2.0
+  },
+  "file_path": "/Users/yossideutsch/projects/metaflux/designs/Tunable_3D_printed_composite_metamaterials_with_ne/metamaterial_absorber_0a16f0a3_v2_20mm_30mm.stl",
+  "generated_at": "/Users/yossideutsch/projects/metaflux",
+  "manufacturing_method": "FDM_3D_printing",
+  "scale": "millimeter_scale"
+}
