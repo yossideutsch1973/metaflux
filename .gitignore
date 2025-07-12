@@ -53,7 +53,9 @@ designs/**/*.stl
 !designs/**/*.json
 
 # Papers (ignore large PDFs but keep folder structure)
-papers/*.pdf
+# papers/*.pdf
+# (Uncomment to ignore, but keep commented to allow GitHub Pages to serve PDFs)
+# papers/*.pdf
 
 # Data (ignore large files but keep structure)
 # data/papers.json
