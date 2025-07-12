@@ -1,6 +1,7 @@
 // app/views/designs.js
 import { Design } from '../models/design.js';
 import { log } from '../main.js';
+import { STLViewer } from '../utils/stl_viewer.js';
 
 export function DesignsView() {
   const el = document.createElement('section');
@@ -65,15 +66,22 @@ export function DesignsView() {
 
   function showDesignDetail(design) {
     log('Showing details for design: ' + design.displayTitle);
+    const stlPath = design.filePath.replace(/\.json$/, '.stl');
     list.innerHTML = `
       <button id="back-to-list">&larr; Back</button>
       <h3>${design.displayTitle}</h3>
       <div><b>Geometry:</b> ${design.displayGeometry}</div>
       <div><b>File:</b> ${design.filePath}</div>
       <div><b>Parameters:</b><pre style="background:#f4f4f4; padding:0.5em;">${JSON.stringify(design.parameters, null, 2)}</pre></div>
+      <button id="view-stl-btn">View STL</button>
+      <div id="stl-viewer" style="width:400px; height:300px; margin-top:1em;"></div>
     `;
     list.querySelector('#back-to-list').onclick = () => {
       el.replaceWith(DesignsView());
+    };
+    list.querySelector('#view-stl-btn').onclick = () => {
+      log('Loading STL: ' + stlPath);
+      STLViewer.render(list.querySelector('#stl-viewer'), stlPath);
     };
   }
 
