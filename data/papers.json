@@ -1,0 +1,1393 @@
+[
+  {
+    "paperId": "6326b2bfbcc34b745e5c93910f07cf2c1dc53754",
+    "url": "https://www.semanticscholar.org/paper/6326b2bfbcc34b745e5c93910f07cf2c1dc53754",
+    "title": "A Tunable EZ Antenna Concept for HPEM Applications",
+    "venue": "2024 4th URSI Atlantic Radio Science Meeting (AT-RASC)",
+    "year": 2024,
+    "citationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.46620/URSIATRASC24/GQOP2992?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.46620/URSIATRASC24/GQOP2992, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2309333532",
+        "name": "Z. Akhter"
+      },
+      {
+        "authorId": "2076711771",
+        "name": "F. Albarracin"
+      },
+      {
+        "authorId": "2291506879",
+        "name": "E. Gurnevich"
+      },
+      {
+        "authorId": "2022559373",
+        "name": "E. Neira"
+      },
+      {
+        "authorId": "2291504710",
+        "name": "F. Vega"
+      },
+      {
+        "authorId": "9104239",
+        "name": "C. Kasmi"
+      }
+    ],
+    "abstract": "This work presents the design and preliminary experimental results on a novel concept of a compact and tunable electrically small antenna for high-power electromagnetic, HPEM, applications. The antenna is inspired in a modified version of the metamaterial based magnetic EZ-antenna, and includes 3D printed dielectric blocks mechanism which enables fine tuning around the resonant frequency. A >5% tunability around the central frequency in the lower UHF band has been verified experimentally, with a sensibility of 0.5 MHz-per-mm of dielectric material insertion.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "dielectric"
+      ],
+      "functions": [
+        "antenna",
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0
+  },
+  {
+    "paperId": "eb43816ccb37411626ea980bd8f33e892671be66",
+    "url": "https://www.semanticscholar.org/paper/eb43816ccb37411626ea980bd8f33e892671be66",
+    "title": "Magnetoactive microlattice metamaterials with highly tunable stiffness and fast response rate",
+    "venue": "NPG Asia Materials",
+    "year": 2023,
+    "citationCount": 17,
+    "openAccessPdf": {
+      "url": "https://www.nature.com/articles/s41427-023-00492-x.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41427-023-00492-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41427-023-00492-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2108126133",
+        "name": "Wenqiang Zhang"
+      },
+      {
+        "authorId": "2048965900",
+        "name": "Jingzhuo Zhou"
+      },
+      {
+        "authorId": "2154180966",
+        "name": "Yanwen Jia"
+      },
+      {
+        "authorId": "2108117722",
+        "name": "Juzheng Chen"
+      },
+      {
+        "authorId": "2163843618",
+        "name": "Yiru Pu"
+      },
+      {
+        "authorId": "145332313",
+        "name": "Rong Fan"
+      },
+      {
+        "authorId": "2009793726",
+        "name": "F. Meng"
+      },
+      {
+        "authorId": "145442136",
+        "name": "Qi Ge"
+      },
+      {
+        "authorId": "2197340916",
+        "name": "Yang Lu"
+      }
+    ],
+    "abstract": "A liquid\u2013solid dual-phase magnetoactive microlattice metamaterial composed of flexible 3D-printed polymer shell and magnetorheological (MR) fluid has been designed and fabricated. The MR fluid-filled magnetoactive microlattices demonstrated remarkable recoverability (~50%) and be substantially stiffened in the presence of a magnetic field, with an ~200% increment in stiffness at 60 mT. Based on specific applications, the mechanical properties of this magnetoactive microlattice metamaterial can be modulated on demand, leading to certain programmable stress-strain behavior. Active metamaterials with shapes or mechanical properties that can be controlled remotely are promising candidates for soft robots, flexible electronics, and medical applications. However, current active metamaterials often have long response times and short ranges of linear working strains. Here, we demonstrate magnetoactive microlattice metamaterials constructed from 3D-printed, ultra-flexible polymer shells filled with magnetorheological (MR) fluid. Under compressive stress, the magnetorheological fluid develops hydrostatic pressure, allowing for a linear compression strain of more than 30% without buckling. We further show that under a relatively low magnetic field strength (approximately 60\u2009mT), the microlattices can become approximately 200% stiffer than those in a relaxed state, and the energy absorption increases ~16 times. Furthermore, our microlattices showed an ultra-low response time with \u201cfield on\u201d and \u201cfield off\u201d times of ~200\u2009ms and ~50\u2009ms, respectively. The ability to continuously tune the mechanical properties of these materials in real time make it possible to modulate stress\u2012strain behavior on demand. Our study provides a new route toward large-scale, highly tunable, and remotely controllable metamaterials with potential applications in wearable exoskeletons, tactile sensors, and medical supports.",
+    "extracted_params": {
+      "materials": [
+        "abs",
+        "support"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 2.0,
+    "pdf_path": "/Users/yossideutsch/projects/metaflux/papers/Magnetoactive_microlattice_metamaterials_with_high.pdf"
+  },
+  {
+    "paperId": "e54d981ea770b1ec0d9c43b4e230e9acc64e78ce",
+    "url": "https://www.semanticscholar.org/paper/e54d981ea770b1ec0d9c43b4e230e9acc64e78ce",
+    "title": "Electrical Transport in Tunably-Disordered Metamaterials",
+    "venue": "",
+    "year": 2024,
+    "citationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2410.11525, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Physics"
+    ],
+    "authors": [
+      {
+        "authorId": "2325954559",
+        "name": "Caitlyn Obrero"
+      },
+      {
+        "authorId": "2261394522",
+        "name": "Mastawal Tirfe"
+      },
+      {
+        "authorId": "2326005575",
+        "name": "Carmen Lee"
+      },
+      {
+        "authorId": "101909334",
+        "name": "S. Saptarshi"
+      },
+      {
+        "authorId": "2325952832",
+        "name": "Christopher Rock"
+      },
+      {
+        "authorId": "2254599987",
+        "name": "Karen E. Daniels"
+      },
+      {
+        "authorId": "39176769",
+        "name": "K. Newhall"
+      }
+    ],
+    "abstract": "Naturally occurring materials are often disordered, with their bulk properties being challenging to predict from the structure, due to the lack of underlying crystalline axes. In this paper, we develop a digital pipeline from algorithmically-created configurations with tunable disorder to 3D printed materials, as a tool to aid in the study of such materials, using electrical resistance as a test case. The designed material begins with a random point cloud that is iteratively evolved using Lloyd's algorithm to approach uniformity, with the points being connected via a Delaunay triangulation to form a disordered network metamaterial. Utilizing laser powder bed fusion additive manufacturing with stainless steel 17-4 PH and titanium alloy Ti-6Al-4V, we are able to experimentally measure the bulk electrical resistivity of the disordered network. The effective resistance of the structure calculated from the combinatorial weighted graph Laplacian is in good agreement with experimental data. However, the effective resistance is sensitive to anisotropy and global network topology, preventing a single network statistic or disorder characterization from predicting global resistivity.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "pla"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0
+  },
+  {
+    "paperId": "1a9314ddbd4977286cb72e79b6ddb192cab98d7d",
+    "url": "https://www.semanticscholar.org/paper/1a9314ddbd4977286cb72e79b6ddb192cab98d7d",
+    "title": "Closed-cell metamaterial composites 3D printed with hybrid FFF process for tunable mechanical and functional properties",
+    "venue": "Thin-walled structures",
+    "year": 2023,
+    "citationCount": 13,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.tws.2023.111168?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.tws.2023.111168, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2139859277",
+        "name": "Mayur Jiyalal Prajapati"
+      },
+      {
+        "authorId": "2155570832",
+        "name": "Ajeet Kumar"
+      },
+      {
+        "authorId": "2115275304",
+        "name": "Shang-Chih Lin"
+      },
+      {
+        "authorId": "2647668",
+        "name": "J. Jeng"
+      }
+    ],
+    "abstract": null,
+    "extracted_params": {
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0
+  },
+  {
+    "paperId": "16348728464b346bbd321025c63bdc8ea2be2490",
+    "url": "https://www.semanticscholar.org/paper/16348728464b346bbd321025c63bdc8ea2be2490",
+    "title": "A 3D-Printed, Metallic-Free, Water-Based Metamaterial for Tunable S-Band Applications",
+    "venue": "IEEE Access",
+    "year": 2025,
+    "citationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3579239?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3579239, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2298460450",
+        "name": "Edoardo Giusti"
+      },
+      {
+        "authorId": "31099540",
+        "name": "D. Brizi"
+      },
+      {
+        "authorId": "1924510",
+        "name": "A. Monorchio"
+      }
+    ],
+    "abstract": "In this paper, a tunable, water-based S-band metamaterial realized with 3D printing technology and not requiring metallic materials is presented. The proposed structure is capable of reconfiguring between Artificial Magnetic Conductor (AMC) and Radar Absorbing Material (RAM) behaviors, two electromagnetic solutions required in a wide range of applications. The main challenge herein addressed lies in achieving both AMC and RAM configurations by conceiving a 35 mm thick single structure with tunable properties without employing metals and resorting only to Polylactic Acid (PLA) and water, opportunely loaded with sodium chloride (NaCl). The dielectric characteristic of the PLA has been evaluated using a waveguide technique finding a dielectric permittivity of 2.61 and a tangent loss of 0.0327. A multilayer metamaterial structure is designed by exploiting the transmission line equivalent circuit modeling. The switching capability is ensured by controlling the salted water filling of the most external PLA cavity. Accurate numerical simulations carried out with a commercial full-wave software and experimental measurements performed by characterizing the 3D printed prototype within a waveguide demonstrated an excellent agreement and confirmed the validity of the design process. For a normal incidence, the obtained AMC bandwidth is approaching 60% within the S-band, with a maximum loss peak of 3 dB, while the RAM shows a -10 dB absorption fractional bandwidth of 42% centered at 2.8 GHz. The absence of metallic materials in the proposed solution represents a significant advantage compared to traditional AMC/RAM configurations including grounded metallic Frequency Selective Surface patterns in all the applications requiring a high angle stability, where interferences with other devices must be avoided or it is preferrable an environmentally friendly approach.",
+    "extracted_params": {
+      "frequency_info": [
+        [
+          "2.8",
+          "ghz"
+        ]
+      ],
+      "dimensions": [
+        [
+          "35",
+          "mm"
+        ]
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "pla",
+        "abs"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 7.0
+  },
+  {
+    "paperId": "1adc7a93dd4c6392b9be47107ac68d99a144d9a0",
+    "url": "https://www.semanticscholar.org/paper/1adc7a93dd4c6392b9be47107ac68d99a144d9a0",
+    "title": "3D-Printed Twisting Tubular Metamaterials with Tunable Mechanical and Torsional Characteristics",
+    "venue": "International Journal of Mechanical Sciences",
+    "year": 2023,
+    "citationCount": 34,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ijmecsci.2023.108719?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ijmecsci.2023.108719, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2183862992",
+        "name": "Amin Montazeri"
+      },
+      {
+        "authorId": "2237251524",
+        "name": "Mahdi Naderinejad"
+      },
+      {
+        "authorId": "92843424",
+        "name": "Maryam Mahnama"
+      },
+      {
+        "authorId": "2237252399",
+        "name": "Amirhosein Hasani"
+      }
+    ],
+    "abstract": null,
+    "extracted_params": {
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 2.0
+  },
+  {
+    "paperId": "f1ebfc78ee0b6c8e7f5d6c7abb1739d992b443ff",
+    "url": "https://www.semanticscholar.org/paper/f1ebfc78ee0b6c8e7f5d6c7abb1739d992b443ff",
+    "title": "Dynamic topology optimization of 3D-Printed transtibial orthopedic implant using tunable isotropic porous metamaterials.",
+    "venue": "Journal of The Mechanical Behavior of Biomedical Materials",
+    "year": 2024,
+    "citationCount": 4,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jmbbm.2024.106479",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jmbbm.2024.106479?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jmbbm.2024.106479, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2148627564",
+        "name": "Josu\u00e9 Garc\u00eda-\u00c1vila"
+      },
+      {
+        "authorId": "2291862730",
+        "name": "Cynthia Pamela Gonz\u00e1lez-Gallegos"
+      },
+      {
+        "authorId": "2275373369",
+        "name": "Victor Segura-Ibarra"
+      },
+      {
+        "authorId": "2291871319",
+        "name": "Elisa Vazquez"
+      },
+      {
+        "authorId": "1397923030",
+        "name": "Erika Garc\u00eda\u2010L\u00f3pez"
+      },
+      {
+        "authorId": "2261260631",
+        "name": "Ciro A. Rodr\u00edguez"
+      },
+      {
+        "authorId": "2276054996",
+        "name": "Adriana Vargas-Mart\u00ednez"
+      },
+      {
+        "authorId": "1405184658",
+        "name": "E. Cuan-Urquizo"
+      },
+      {
+        "authorId": "2274008459",
+        "name": "Erick Ram\u00edrez-Cedillo"
+      }
+    ],
+    "abstract": null,
+    "extracted_params": {
+      "materials": [
+        "pla"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 2.0,
+    "pdf_path": "/Users/yossideutsch/projects/metaflux/papers/Dynamic_topology_optimization_of_3D-Printed_transt.pdf"
+  },
+  {
+    "paperId": "25d78db90c7af3deaa2d87838863dbb862b7cd6c",
+    "url": "https://www.semanticscholar.org/paper/25d78db90c7af3deaa2d87838863dbb862b7cd6c",
+    "title": "3D-Printed Conformal Metamaterial Lens with Multiple Beam Steering Functionalities",
+    "venue": "2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (USNC-URSI)",
+    "year": 2023,
+    "citationCount": 7,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/USNC-URSI52151.2023.10237856?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/USNC-URSI52151.2023.10237856, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "1816673867",
+        "name": "N. Melouki"
+      },
+      {
+        "authorId": "2192263768",
+        "name": "F. Ahmed"
+      },
+      {
+        "authorId": "2098745890",
+        "name": "P. Pourmohammadi"
+      },
+      {
+        "authorId": "2238461635",
+        "name": "H. Naseri"
+      },
+      {
+        "authorId": "2173393938",
+        "name": "A. Iqbal"
+      },
+      {
+        "authorId": "30941301",
+        "name": "T. A. Denidni"
+      }
+    ],
+    "abstract": "In this paper, a 3D transmitting cylindrical conformal meta-lens is proposed, as a height-to-phase controlled system for electromagnetic beam manipulation, namely beam-steering. The full structure is composed of 79 independently tunable metaatoms columns, using 3D printing, providing full 360\u00b0 phase compensation. CST Microwave Studio is used for both the unit cell and full structure analysis, where a standard horn antenna is used to illuminate the 3D meta-lens. The far-field beam-steering mechanism of the proposed antenna is achieved by calculating the required phase compensations for each column of meta-atoms, to redirect the beam to a predefined angle. Simulation results show two unique beam scanning techniques, one for a single beam and the other one for a dual-beam steering, at different angles of 0\u00b0, 15\u00b0, 30\u00b0, and 45\u00b0, and this capability can be further extended to enable wider 2D beam scanning, with independent beam deflection for the dual-beam functionality, making the proposed meta-lens a potential low-cost candidate for high-gain beam steering mm-wave wireless communication systems.",
+    "extracted_params": {
+      "frequency_info": [
+        "microwave",
+        "ir",
+        "ir",
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "functions": [
+        "antenna",
+        "lens",
+        "metamaterial",
+        "unit cell"
+      ]
+    },
+    "relevance_score": 4.0
+  },
+  {
+    "paperId": "3af673190c7073ec9693cf21d9bad4325b94b23c",
+    "url": "https://www.semanticscholar.org/paper/3af673190c7073ec9693cf21d9bad4325b94b23c",
+    "title": "Mid-Infrared Surface-Enhanced Spectroscopy Enabled by 3D Printed Metamaterial Absorbers",
+    "venue": "2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (USNC-URSI)",
+    "year": 2023,
+    "citationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/USNC-URSI52151.2023.10237629?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/USNC-URSI52151.2023.10237629, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2238463143",
+        "name": "Lei Kang"
+      },
+      {
+        "authorId": "50118297",
+        "name": "Yuhao Wu"
+      },
+      {
+        "authorId": "145388425",
+        "name": "S. Campbell"
+      },
+      {
+        "authorId": "2070959738",
+        "name": "D. Werner"
+      },
+      {
+        "authorId": "1445473256",
+        "name": "Albanie K. Hendrickson-Stives"
+      },
+      {
+        "authorId": "2248022757",
+        "name": "Christine D. Keating"
+      }
+    ],
+    "abstract": "In this paper, surface-enhanced mid-infrared (IR) detection based on a 3D printed plasmonic meta material absorber (MMA) is presented. Leveraging the strong field enhancement effect in the 3D meta-atoms of the MMA, we have experimentally demonstrated that a series of molecular fingerprint vibrations of glycine can be significantly enhanced. In addition, our experiments show that, due to the capillary effect, the microscale 3D printed features can lead to selective analyte deposition, providing an additional knob to control surface-enhanced IR detection.",
+    "extracted_params": {
+      "frequency_info": [
+        "infrared",
+        "infrared",
+        "ir",
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "pla",
+        "abs"
+      ],
+      "functions": [
+        "absorber",
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 3.0
+  },
+  {
+    "paperId": "ec5ee33d72dc322e7c210c44f45588ff60158822",
+    "url": "https://www.semanticscholar.org/paper/ec5ee33d72dc322e7c210c44f45588ff60158822",
+    "title": "3D printed auxetic metamaterials with tunable mechanical properties and morphological fitting abilities",
+    "venue": "Materials &amp; Design",
+    "year": 2024,
+    "citationCount": 15,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.matdes.2024.113119",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.matdes.2024.113119?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.matdes.2024.113119, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2308355133",
+        "name": "Yazhou Yuan"
+      },
+      {
+        "authorId": "15829148",
+        "name": "Suqian Ma"
+      },
+      {
+        "authorId": "2308535188",
+        "name": "Xianyan Sun"
+      },
+      {
+        "authorId": "2308471235",
+        "name": "Boya Chen"
+      },
+      {
+        "authorId": "2308329917",
+        "name": "Yuchao Luo"
+      },
+      {
+        "authorId": "2307972145",
+        "name": "Zhaohua Lin"
+      },
+      {
+        "authorId": "2284231356",
+        "name": "Yunhong Liang"
+      }
+    ],
+    "abstract": null,
+    "extracted_params": {
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0,
+    "pdf_path": "/Users/yossideutsch/projects/metaflux/papers/3D_printed_auxetic_metamaterials_with_tunable_mech.pdf"
+  },
+  {
+    "paperId": "0ea1305d670d88df1ff99e8e833584dc2c9498ad",
+    "url": "https://www.semanticscholar.org/paper/0ea1305d670d88df1ff99e8e833584dc2c9498ad",
+    "title": "Exploring Tunable Torsional Mechanical Properties of 3D\u2010Printed Tubular Metamaterials",
+    "venue": "Advanced Engineering Materials",
+    "year": 2024,
+    "citationCount": 3,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/adem.202301876?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/adem.202301876, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2273912076",
+        "name": "Zhennan Zhang"
+      },
+      {
+        "authorId": "2273767669",
+        "name": "Lei Liu"
+      },
+      {
+        "authorId": "2292637454",
+        "name": "Fatih Usta"
+      },
+      {
+        "authorId": "2273816363",
+        "name": "Yanyu Chen"
+      }
+    ],
+    "abstract": "Additive manufacturing has proven to be a reliable and quick method for creating devices and tools. One example is 3D\u2010printed nasal swabs that require robust mechanical strength while maintaining adequate flexibility. However, there is a lack of detailed understanding on the mechanical response of tubular structures under torsion loading. The goal of this work is to understand the torsional behavior of a group of 3D\u2010printed tubular metamaterials. The idea of mechanical metamaterials is used and it is started with a rectangular lattice. Two main design methods are used: reinforced lattices and compliant lattices. First, diagonal reinforced beams are added to enhance the torsional rigidity. Furthermore, pre\u2010buckling is added to the straight beam, creating a flexible structure that increases the maximum torsional resistance. The experiments demonstrate that the sponge\u2010inspired design exhibits enhanced stiffness approximately 21 times that of baseline tubular designs. Moreover, the strength and toughness of the sponge\u2010inspired design are approximately 2.5 and 3 times higher. By curving the beam, compliant tubulars are created. The torsional angle is increased by at least 2.7 times, while the torsional toughness can reach up to 17 times. Using these two design strategies helps in creating tubular metamaterials with varied applications.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir",
+        "ir",
+        "ir",
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "abs"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0
+  },
+  {
+    "paperId": "8cbea391d79cb18f58597d6cf860a046b83b0eb2",
+    "url": "https://www.semanticscholar.org/paper/8cbea391d79cb18f58597d6cf860a046b83b0eb2",
+    "title": "3D printed PyC/Al2O3 Ceramic Metamaterials with Different Micro-channels for Tunable Microwave Absorption",
+    "venue": "Journal of the European Ceramic Society",
+    "year": 2023,
+    "citationCount": 27,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jeurceramsoc.2023.08.052",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jeurceramsoc.2023.08.052?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jeurceramsoc.2023.08.052, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2116762036",
+        "name": "Qian Zhou"
+      },
+      {
+        "authorId": "2128064701",
+        "name": "Heqiang Liu"
+      },
+      {
+        "authorId": "49986580",
+        "name": "Yue Gu"
+      },
+      {
+        "authorId": "2112421609",
+        "name": "Wenyan Duan"
+      },
+      {
+        "authorId": "49543113",
+        "name": "Xingmin Liu"
+      },
+      {
+        "authorId": "2053898028",
+        "name": "Fang Ye"
+      },
+      {
+        "authorId": "2152774185",
+        "name": "Xiaomeng Fan"
+      },
+      {
+        "authorId": "10369789",
+        "name": "L. Du"
+      }
+    ],
+    "abstract": null,
+    "extracted_params": {
+      "frequency_info": [
+        "microwave"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "abs"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0,
+    "pdf_path": "/Users/yossideutsch/projects/metaflux/papers/3D_printed_PyCAl2O3_Ceramic_Metamaterials_with_Dif.pdf"
+  },
+  {
+    "paperId": "0a16f0a30d587ccd81753fadc1677fafa1f07e5f",
+    "url": "https://www.semanticscholar.org/paper/0a16f0a30d587ccd81753fadc1677fafa1f07e5f",
+    "title": "Tunable 3D printed composite metamaterials with negative stiffness",
+    "venue": "Smart materials and structures (Print)",
+    "year": 2023,
+    "citationCount": 6,
+    "openAccessPdf": {
+      "url": "https://iopscience.iop.org/article/10.1088/1361-665X/ad06df/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1088/1361-665X/ad06df?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1088/1361-665X/ad06df, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Physics"
+    ],
+    "authors": [
+      {
+        "authorId": "2115423523",
+        "name": "Changlang Wu"
+      },
+      {
+        "authorId": "1974816058",
+        "name": "Chenxi Peng"
+      },
+      {
+        "authorId": "2262444041",
+        "name": "Tu Le"
+      },
+      {
+        "authorId": "2052289367",
+        "name": "R. Das"
+      },
+      {
+        "authorId": "2248862679",
+        "name": "Phuong Tran"
+      }
+    ],
+    "abstract": "The paper proposes a class of tunable metamaterials that use inclined beams to achieve instability in a rigid system. Three different beam tilt angles, 25\u00b0, 45\u00b0, and 60\u00b0, are evaluated in the form of unit cells using quasi-static compression tests and numerical simulations. Snap-through behavirous are characterised by structural stiffness and buckling load. Periodic and gradient structures are assembled and analysed by arranging the unit cells in rows and columns. Size effect analyses and parametric studies are carried out on various unit-cell arrangements and different beam angles. The proposed metamaterials are manufactured through fused filament fabrication 3D printing technology with a composite material, onyx. The results from experiments, finite element analysis, and analytical models are compared and evaluated. The structural stiffness and buckling load are shown to be positively related to the inclination angle of the tilted beams. The number of rows of unit cells governs the nonlinear mechanical response (number of snap-throughs) of multiple-layered structures. By increasing the number of rows and columns of unit cells, which are less prone to manufacturing defects, the reliability and repeatability of the structural properties of periodic/gradient structures could be improved. A design plot is also provided to predict and tune the snap-through behaviour of multiple-layered structures via beam angles and unit-cell arrangements.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "FDM_3D_printing",
+        "3D_printing"
+      ],
+      "functions": [
+        "metamaterial",
+        "unit cell"
+      ]
+    },
+    "relevance_score": 7.0,
+    "pdf_path": "/Users/yossideutsch/projects/metaflux/papers/Tunable_3D_printed_composite_metamaterials_with_ne.pdf"
+  },
+  {
+    "paperId": "dec98e2581324f1d0a7886d0729f8bdf52093f40",
+    "url": "https://www.semanticscholar.org/paper/dec98e2581324f1d0a7886d0729f8bdf52093f40",
+    "title": "A tunable metamaterial using a single beam element with quasi-zero-stiffness characteristics for low-frequency vibration isolation",
+    "venue": "Journal of Vibration and Control",
+    "year": 2023,
+    "citationCount": 12,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/10775463231198892?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/10775463231198892, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "123153592",
+        "name": "S. Dalela"
+      },
+      {
+        "authorId": "2237035193",
+        "name": "Balaji Ps"
+      },
+      {
+        "authorId": "94941534",
+        "name": "D. Jena"
+      },
+      {
+        "authorId": "101272961",
+        "name": "M. Leblouba"
+      }
+    ],
+    "abstract": "Quasi-zero-stiffness (QZS) isolators exhibit high-static and low-dynamic stiffness without sacrificing the load-bearing capacity and with the ability to shield the vibration in low-frequency ranges. Most of the current designs possess QZS property using a combination of positive stiffness element with negative stiffness element, increasing the complexity of the model. In the present research, a single-element mechanical metamaterial is tailored to obtain the QZS property. The building block consists of a single elastically-deformed beam, and the static results of the 3D-printed metastructure demonstrate QZS behavior. A mathematical model is developed for studying the nonlinear behavior of the proposed model, and the dynamic equation is solved using Harmonic-Balance method. Further, an experiment is performed to confirm the vibration isolation capability of the proposed model in low-frequency ranges. Stability analysis is performed mathematically using the perturbation analysis. The QZS mechanism obtained here solely depends on the flexible beam\u2019s geometrical configuration, hence making the design strategy material independent.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 2.0
+  },
+  {
+    "paperId": "39b4dc7b651f5b2e868ce4b5e12e8d7ebc6e8262",
+    "url": "https://www.semanticscholar.org/paper/39b4dc7b651f5b2e868ce4b5e12e8d7ebc6e8262",
+    "title": "Additively Manufactured Mechanical Metamaterial\u2010Based Pressure Sensor with Tunable Sensing Properties for Stance and Motion Analysis",
+    "venue": "Advanced Engineering Materials",
+    "year": 2023,
+    "citationCount": 8,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/adem.202201499?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/adem.202201499, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2143467660",
+        "name": "Hang-Gyeom Kim"
+      },
+      {
+        "authorId": "94068601",
+        "name": "S. Hajra"
+      },
+      {
+        "authorId": "49923227",
+        "name": "Howon Lee"
+      },
+      {
+        "authorId": "48986848",
+        "name": "Namjung Kim"
+      },
+      {
+        "authorId": "9852365",
+        "name": "Hoe-Joon Kim"
+      }
+    ],
+    "abstract": "Mechanical metamaterials are attracting considerable attention due to their unique properties not found in natural materials. Advanced geometrical shapes such as Menger cubes, origami templates, and gyroids offer exciting avenues for device engineering. In addition, the recent developments of various additive manufacturing technologies have expanded materials selection and geometrical complexities. Herein, a piezoresistive pressure sensor based on a 3D\u2010printed gyroid structure with a conformal coating of carbon nanotubes (CNTs) is presented. The gyroid structures are printed using fused deposition modeling (FDM) 3D printing with thermoplastic polyurethane (TPU), providing mechanical robustness even at low densities. By altering the relative density of the gyroid structure, Young's modulus can be tailored, ranging from 0.32\u2009MPa at 30% relative density and 3.61\u2009MPa at 80% relative density. The presented gyroid\u2010based pressure sensor achieves a wide sensing range of up to 1.45\u2009MPa and a high sensitivity of 2.68\u2009MPa\u22121. The sensor is integrated into a shoe for wearable applications, demonstrating its mechanical robustness and potential for human stance and motion monitoring.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "FDM_3D_printing",
+        "3D_printing"
+      ],
+      "materials": [
+        "pla",
+        "tpu"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 7.0
+  },
+  {
+    "paperId": "0c00650937cf78d9a4749def7a2f5c964a648825",
+    "url": "https://www.semanticscholar.org/paper/0c00650937cf78d9a4749def7a2f5c964a648825",
+    "title": "A bioinspired 3D-printable flexure joint with cellular mechanical metamaterial architecture for soft robotic hands",
+    "venue": "International Journal of Bioprinting",
+    "year": 2023,
+    "citationCount": 8,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.18063/ijb.696",
+      "status": "GOLD",
+      "license": "CCBYNC",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10236482, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "144347277",
+        "name": "A. Mohammadi"
+      },
+      {
+        "authorId": "11460644",
+        "name": "E. Hajizadeh"
+      },
+      {
+        "authorId": "2148924442",
+        "name": "Ying Tan"
+      },
+      {
+        "authorId": "1388583423",
+        "name": "Peter Choong"
+      },
+      {
+        "authorId": "2794163",
+        "name": "D. Oetomo"
+      }
+    ],
+    "abstract": "Compliant flexure joints have been widely used for cable-driven soft robotic hands and grippers due to their safe interaction with humans and objects. This paper presents a soft and compliant revolute flexure joint based on the auxetic cellular mechanical metamaterials with a heterogeneous structure. The heterogeneous architecture of the proposed metamaterial flexure joint (MFJ), which is inspired by the human finger joints, provides mechanically tunable multi-stiffness bending motion and large range of bending angle in comparison to conventional flexure joints. The multi-level variation of the joint stiffness over the range of bending motion can be tuned through the geometrical parameters of the cellular mechanical metamaterial unit cells. The proposed flexure joints are 3D printed with single flexible material in monolithic fashion using a standard benchtop 3D printer. The application of the MFJ is demonstrated in robotic in-hand manipulation and grasping thin and deformable objects such as wires and cables. The results show the capability and advantages of the proposed MFJ in soft robotic grippers and highly functional bionic hands.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir",
+        "ir",
+        "ir",
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "functions": [
+        "metamaterial",
+        "unit cell"
+      ]
+    },
+    "relevance_score": 4.0,
+    "pdf_path": "/Users/yossideutsch/projects/metaflux/papers/A_bioinspired_3D-printable_flexure_joint_with_cell.pdf"
+  },
+  {
+    "paperId": "531f58176ccfdc5d02200952acfd60a3e507a9c2",
+    "url": "https://www.semanticscholar.org/paper/531f58176ccfdc5d02200952acfd60a3e507a9c2",
+    "title": "A Novel 3D-Printed Negative-Stiffness Lattice Structure with Internal Resonance Characteristics and Tunable Bandgap Properties",
+    "venue": "Materials",
+    "year": 2023,
+    "citationCount": 4,
+    "openAccessPdf": {
+      "url": "https://www.mdpi.com/1996-1944/16/24/7669/pdf?version=1702642038",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10744406, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2274909953",
+        "name": "Jiayang Liu"
+      },
+      {
+        "authorId": "2274904718",
+        "name": "Shu Li"
+      }
+    ],
+    "abstract": "The bandgap tuning potential offered by negative-stiffness lattice structures, characterized by their unique mechanical properties, represents a promising and burgeoning field. The potential of large deformations in lattice structures to transition between stable configurations is explored in this study. This transformation offers a novel method for modifying the frequency range of elastic wave attenuation, simultaneously absorbing energy and effectively generating diverse bandgap ranges. In this paper, an enhanced lattice structure is introduced, building upon the foundation of the normal negative-stiffness lattice structures. The research examined the behavior of the suggested negative-stiffness lattice structures when subjected to uniaxial compression. This included analyzing the dispersion spectra and bandgaps across different states of deformation. It also delved into the effects of geometric parameter changes on bandgap properties. Furthermore, the findings highlight that the normal negative-stiffness lattice structure demonstrates restricted capabilities in attenuating vibrations. In contrast, notable performance improvements are displayed by the improved negative-stiffness lattice structure, featuring distinct energy band structures and variable bandgap ranges in response to differing deformation states. This highlights the feasibility of bandgap tuning through the deformation of negatively stiffened structures. Finally, the overall metamaterial structure is simulated using a unit cell finite element dynamic model, and its vibration transmission properties and frequency response patterns are analyzed. A fresh perspective on the research and design of negative-stiffness lattice structures, particularly focusing on their bandgap tuning capabilities, is offered in this study.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir",
+        "ir"
+      ],
+      "materials": [
+        "pla",
+        "abs"
+      ],
+      "functions": [
+        "metamaterial",
+        "unit cell"
+      ]
+    },
+    "relevance_score": 2.0
+  },
+  {
+    "paperId": "944c2c3d08f4e4f575510db88a1d9ec44147458b",
+    "url": "https://www.semanticscholar.org/paper/944c2c3d08f4e4f575510db88a1d9ec44147458b",
+    "title": "Review of Broadband Metamaterial Absorbers: From Principles, Design Strategies, and Tunable Properties to Functional Applications",
+    "venue": "Advanced Functional Materials",
+    "year": 2023,
+    "citationCount": 234,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/adfm.202213818?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/adfm.202213818, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "40557379",
+        "name": "Ben-Xin Wang"
+      },
+      {
+        "authorId": "2110101524",
+        "name": "Chongyang Xu"
+      },
+      {
+        "authorId": "2158792218",
+        "name": "Guiyuan Duan"
+      },
+      {
+        "authorId": "2155782886",
+        "name": "Wei Xu"
+      },
+      {
+        "authorId": "8695444",
+        "name": "Fuwei Pi"
+      }
+    ],
+    "abstract": "Metamaterial absorbers have been widely studied and continuously concerned owing to their excellent resonance features of ultra\u2010thin thickness, light\u2010weight, and high absorbance. Their applications, however, are typically restricted by the intrinsic dispersion of materials and strong resonant features of patterned arrays (mainly referring to narrow absorption bandwidth). It is, therefore essential to reassert the principles of building broadband metamaterial absorbers (BMAs). Herein, the research progress of BMAs from principles, design strategies, tunable properties to functional applications are comprehensively and deeply summarized. Physical principles behind broadband absorption are briefly discussed, typical design strategies in realizing broadband absorption are further emphasized, such as top\u2010down lithography, bottom\u2010up self\u2010assembly, and emerging 3D printing technology. Diversified active components choices, including optical response, temperature response, electrical response, magnetic response, mechanical response, and multi\u2010parameter responses, are reviewed in achieving dynamically tuned broadband absorption. Following this, the achievements of various interdisciplinary applications for BMAs in energy\u2010harvesting, photodetectors, radar\u2010IR dual stealth, bolometers, noise absorbing, imaging, and fabric wearable are summarized. Finally, the challenges and perspectives for future development of BMAs are discussed.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir",
+        "ir",
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing",
+        "lithography"
+      ],
+      "materials": [
+        "abs"
+      ],
+      "functions": [
+        "absorber",
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0
+  },
+  {
+    "paperId": "24a5295b802262eb460b9a49a3e53ce390af0750",
+    "url": "https://www.semanticscholar.org/paper/24a5295b802262eb460b9a49a3e53ce390af0750",
+    "title": "Observation of Ferroelectric Programmability in 3D Printed Metamaterials",
+    "venue": "Advanced Materials & Technologies",
+    "year": 2024,
+    "citationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/admt.202301562?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/admt.202301562, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2202985088",
+        "name": "Mohamed Roshdy"
+      },
+      {
+        "authorId": "9438985",
+        "name": "O. Bilal"
+      }
+    ],
+    "abstract": "Architected materials can break the limit of what is possible compared to natural materials, however, once fabricated they retain fixed properties. A growing trend in research is devoted to materials with properties that can be tuned post fabrication in a programmable manner. Such tunability can be achieved through magnetic, electric, or thermal stimuli to responsive elements within the metamaterial's architecture. In this paper, the first experimental demonstration of ferroelectric programmability of 3D printed polymeric metamaterials is presented to control elastic waves using electrical poling. Electrical poling effects are harnessed to change the mechanical properties of polyvinylidene fluoride (PVDF). The poling\u2010induced softening is utilized to reverse metamaterials behavior from attenuating waves to propagating them and vice versa. The utility of the proposed platform is demonstrated to program a desired set of pixels within the metamaterials to open a path for waves to propagate in a waveguide. The findings introduce a methodology for elastic wave guiding by electrical poling, which can open the door for numerous applications in various fields such as vibration isolation, wave guiding, and energy harvesting.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir",
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "pla"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 3.0
+  },
+  {
+    "paperId": "49d98abbf7843a1f643f35ed54479714602ef515",
+    "url": "https://www.semanticscholar.org/paper/49d98abbf7843a1f643f35ed54479714602ef515",
+    "title": "Toward a Novel Energy\u2010Dissipation Metamaterial with Tensegrity Architecture",
+    "venue": "Advances in Materials",
+    "year": 2023,
+    "citationCount": 10,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202300639",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/adma.202300639?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/adma.202300639, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "49893951",
+        "name": "F. Santos"
+      }
+    ],
+    "abstract": "The interest in novel energy\u2010dissipation devices that offer advanced functionalities for optimal performance in state\u2010of\u2010the\u2010art engineering applications is growing. In this regard, a highly tunable and innovative dissipator is developed. This dissipator features movement amplification capabilities resulting from the radial replication of a unit\u2010cell with tensegrity architecture. The kinematic response of the dissipator is analyzed for several layouts, by varying the number of unit\u2010cells within the device, their internal geometry, and identifying the corresponding locking configurations. A fully operational 3D\u2010printed prototype is presented, demonstrating its excellent performance in terms of damping capabilities and feasibility. The experimental results are used to validate a numerical model of the flower unit. This model demonstrates the importance of pre\u2010strain on the overall stiffness and dissipative features of the proposed system. By utilizing these numerical models, it is shown that the proposed device can be used as a building block for more complex assemblies such as periodic metamaterials with tensegrity architecture.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 2.0
+  },
+  {
+    "paperId": "6b1b9fca6b5d51620827cdd9c35eee7d98e7d91b",
+    "url": "https://www.semanticscholar.org/paper/6b1b9fca6b5d51620827cdd9c35eee7d98e7d91b",
+    "title": "A programmable modular lattice metamaterial with multiple deformations",
+    "venue": "Mechanics of Advanced Materials and Structures",
+    "year": 2023,
+    "citationCount": 4,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15376494.2023.2252988?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15376494.2023.2252988, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2242179214",
+        "name": "Hao Chen"
+      },
+      {
+        "authorId": "46461582",
+        "name": "Yongtao Yao"
+      },
+      {
+        "authorId": "47910193",
+        "name": "Yanju Liu"
+      },
+      {
+        "authorId": "143613962",
+        "name": "J. Leng"
+      },
+      {
+        "authorId": "104518408",
+        "name": "W. Bian"
+      }
+    ],
+    "abstract": "Abstract This paper describes a class of lattice metamaterials with tunable mechanical properties controlled by the material modulus and structural parameters of the cellular units. The deformation shapes can also be changed by external control. We have developed 3D printed quadrilateral cellular TPU units with specially shaped edge walls. A simplified mechanical model of the different cell deformation processes is established and verified by numerical simulations and experiments. On this basis, by tessellating and matching these transformations together, we create assembly grids with adjustable stiffness and deformation shapes controlled by thermal and displacement constraints.",
+    "extracted_params": {
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "pla",
+        "abs",
+        "tpu"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0
+  },
+  {
+    "paperId": "58b692bb036b486592eb648a1845bb9215640a62",
+    "url": "https://www.semanticscholar.org/paper/58b692bb036b486592eb648a1845bb9215640a62",
+    "title": "Novel 4D-printed multi-stable metamaterials: programmability of force-displacement behaviour and deformation sequence",
+    "venue": "Philosophical Transactions",
+    "year": 2024,
+    "citationCount": 3,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1098/rsta.2023.0366?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1098/rsta.2023.0366, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2302102685",
+        "name": "Mengqi Wan"
+      },
+      {
+        "authorId": "2150332319",
+        "name": "Keqing Yu"
+      },
+      {
+        "authorId": "143727105",
+        "name": "Hao Zeng"
+      },
+      {
+        "authorId": "69374308",
+        "name": "A. Khatibi"
+      },
+      {
+        "authorId": "2313603391",
+        "name": "Meigui Yin"
+      },
+      {
+        "authorId": "47217572",
+        "name": "Huiyu Sun"
+      }
+    ],
+    "abstract": "The unique properties of metamaterials are determined by the configuration and spatial arrangement of artificially designed unit structures. However, the configuration and mechanical properties of conventional metamaterials are challenging to reverse and adjust. Based on curved beams, two types of novel three-dimensional (3D) multi-stable metamaterials with reconfigurable deformation and tunable mechanical properties are designed and fabricated using a four-dimensional (4D) printing method. The effects of temperature and curved-beam thickness on the force-displacement curves and multi-stable snapping sequence of the 3D multi-stable metamaterials are investigated by finite-element analysis (FEA) and experiments. In addition, based on the designed four-branch multi-stable metamaterials, three- and six-branched multi-stable structures are designed by changing the number of curved-beam branches. It is shown that, owing to shape memory effects, the 3D multi-stable metamaterials can realize mechanical programmability, and the multi-stable deformation sequence can be precisely regulated by varying the temperature and curved-beam thickness. These 4D-printed multi-stable metamaterials provide valuable contributions to the design of programmable multi-stable metamaterials and their applications in soft robots and intelligent structures. This article is part of the theme issue \u2018Current developments in elastic and acoustic metamaterials science (Part 1)\u2019.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir"
+      ],
+      "materials": [
+        "pla"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 2.0
+  },
+  {
+    "paperId": "b657c00bd05ee47f0617ef5aabaabd59e01b58c0",
+    "url": "https://www.semanticscholar.org/paper/b657c00bd05ee47f0617ef5aabaabd59e01b58c0",
+    "title": "Conformally Perforated Shellular Metamaterials with Tunable Thermomechanical and Acoustic Properties",
+    "venue": "Advanced Functional Materials",
+    "year": 2025,
+    "citationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/adfm.202506062?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/adfm.202506062, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2092799947",
+        "name": "Benyamin Shahryari"
+      },
+      {
+        "authorId": "70186825",
+        "name": "A. Mirabolghasemi"
+      },
+      {
+        "authorId": "2277731407",
+        "name": "Shahin Eskandari"
+      },
+      {
+        "authorId": "2363244327",
+        "name": "Xin Chen"
+      },
+      {
+        "authorId": "51126208",
+        "name": "J. De\u00fc"
+      },
+      {
+        "authorId": "70243659",
+        "name": "R. Ohayon"
+      },
+      {
+        "authorId": "73938085",
+        "name": "A. Mohany"
+      },
+      {
+        "authorId": "2362793847",
+        "name": "Alex Kalamkarov"
+      },
+      {
+        "authorId": "49583542",
+        "name": "Abdolhamid Akbarzadeh"
+      }
+    ],
+    "abstract": "The tunability of multifunctional properties of Triply Periodic Minimal Surfaces (TPMSs) is mainly constrained to variations in their shell thickness. To address this limitation, a novel approach inspired by 2D cellular solids is introduced, utilizing discrete conformal mapping of perforated 2D cellular layouts onto TPMS surfaces to minimize distortion during 3D mapping. This study focuses on primitive (P)\u2010type Conformally Perforated Shellular Metamaterials (CPSMs), evaluating their thermomechanical and acoustic properties through computational analyses and experimentation on 3D\u2010printed samples. Effective thermomechanical properties are determined via asymptotic homogenization, which demonstrate that the thermal conductivity of CPSMs can be calculated by multiplying the effective thermal conductivities of the 3D shellular and 2D thermally\u2010isotropic cellular architectures. Thermal conductivity and elastic stiffness are systematically enhanced by engineering the shell's in\u2010plane architecture while preserving the 3D topology. The optimized design demonstrates a significant increase in elastic stiffness compared to an intact P\u2010shellular of the same density. Numerical and experimental results reveal that the 2D\u2010mapped architecture effectively tunes the acoustic bandwidth and bandgap frequency range of CPSMs, achieving a 79% increase in bandwidth and a 34% reduction in material density compared to an intact P\u2010shellular. These findings highlight CPSMs' potential for structural, thermal, and acoustic applications, advancing the development of additively manufactured TPMS\u2010based\u00a0multifunctional metamaterials.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir",
+        "ir",
+        "ir"
+      ],
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "pla"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 4.0
+  },
+  {
+    "paperId": "0bbe630a96b81025e809c6917711abf2ea765429",
+    "url": "https://www.semanticscholar.org/paper/0bbe630a96b81025e809c6917711abf2ea765429",
+    "title": "Modular reprogrammable 3D mechanical metamaterials with unusual hygroscopic deformation modes.",
+    "venue": "Materials Horizons",
+    "year": 2023,
+    "citationCount": 6,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1039/d3mh00694h?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1039/d3mh00694h, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2206897134",
+        "name": "Yisong Bai"
+      },
+      {
+        "authorId": "7531181",
+        "name": "Chuanbao Liu"
+      },
+      {
+        "authorId": "2154901284",
+        "name": "Yang Li"
+      },
+      {
+        "authorId": "2109017130",
+        "name": "Jinxu Li"
+      },
+      {
+        "authorId": "2065508652",
+        "name": "Lijie Qiao"
+      },
+      {
+        "authorId": "2146369514",
+        "name": "Ji Zhou"
+      },
+      {
+        "authorId": "2115297137",
+        "name": "Yang Bai"
+      }
+    ],
+    "abstract": "The majority of polymer-based materials demonstrate expansion upon absorbing water from the air. Mechanical metamaterials provide an interesting way to achieve unusual hygroscopic deformation. However, previous studies have only accommodated the limited tunability of negative hygroscopic expansion by theoretical analysis but have never involved other deformation modes. This work proposes modular reprogrammable 3D moisture-sensitive mechanical metamaterials with switchable hygroscopic deformation modes, which are built up of multi-material 3D-printed bi-material curved strips and cubic nodes. Depending on the geometrical parameters and spatial layouts of the curved strips, the metamaterials exhibit tunable coefficient of hygroscopic expansion from negative to positive. In addition to homogeneous deformation, complex 3D hygroscopic deformation modes can be achieved including shear and twist. More interestingly, the metamaterials are reprogrammable since all the deformation modes can be switched by modular disassembling and reassembling of the curved strips, just like LEGO building blocks. This work demonstrates a feasible approach to achieve customized 3D hygroscopic deformation through easy block building for specific engineering applications including eliminating hygroscopic stress, shape morphing structures, and smart actuators.",
+    "extracted_params": {
+      "frequency_info": [
+        "ir"
+      ],
+      "materials": [
+        "abs"
+      ],
+      "functions": [
+        "metamaterial"
+      ]
+    },
+    "relevance_score": 2.0
+  },
+  {
+    "paperId": "94f4e53369e2871889f17a24a3e6c411004e4d1b",
+    "url": "https://www.semanticscholar.org/paper/94f4e53369e2871889f17a24a3e6c411004e4d1b",
+    "title": "Volumetric 3D Printing and Melt-Electrowriting to Fabricate Implantable Reinforced Cardiac Tissue Patches",
+    "venue": "bioRxiv",
+    "year": 2025,
+    "citationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2025.03.11.642643?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2025.03.11.642643, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2325121414",
+        "name": "Lewis S. Jones"
+      },
+      {
+        "authorId": "8383702",
+        "name": "H. Biefer"
+      },
+      {
+        "authorId": "2313520775",
+        "name": "Manuel Mekkattu"
+      },
+      {
+        "authorId": "2145652838",
+        "name": "Quinten Thijssen"
+      },
+      {
+        "authorId": "2333271773",
+        "name": "Alessio Amicone"
+      },
+      {
+        "authorId": "2350454912",
+        "name": "Anna Bock"
+      },
+      {
+        "authorId": "2027477317",
+        "name": "M. Weisskopf"
+      },
+      {
+        "authorId": "2350456174",
+        "name": "Dennis Zorndt"
+      },
+      {
+        "authorId": "2292113367",
+        "name": "Debora Meier"
+      },
+      {
+        "authorId": "2149968813",
+        "name": "Li Zheng"
+      },
+      {
+        "authorId": "19326233",
+        "name": "M. Generali"
+      },
+      {
+        "authorId": "2139596377",
+        "name": "Robert K. Katzschmann"
+      },
+      {
+        "authorId": "2313618101",
+        "name": "Omer Dzemali"
+      }
+    ],
+    "abstract": null,
+    "extracted_params": {
+      "manufacturing_methods": [
+        "3D_printing"
+      ],
+      "materials": [
+        "pla"
+      ]
+    },
+    "relevance_score": 2.0
+  }
+]
