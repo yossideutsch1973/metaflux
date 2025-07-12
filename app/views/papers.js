@@ -1,18 +1,25 @@
 // app/views/papers.js
 import { Paper } from '../models/paper.js';
+import { log } from '../main.js';
 
 export function PapersView() {
   const el = document.createElement('section');
   el.innerHTML = `<h2>Papers</h2><div id="papers-list">Loading...</div>`;
   const list = el.querySelector('#papers-list');
 
+  log('Loading papers.json...');
   fetch('data/papers.json')
-    .then(r => r.json())
+    .then(r => {
+      log('Fetched data/papers.json: ' + r.status);
+      return r.json();
+    })
     .then(data => {
       if (!Array.isArray(data) || data.length === 0) {
+        log('No papers found in papers.json');
         list.innerHTML = '<p>No papers found.</p>';
         return;
       }
+      log(`Loaded ${data.length} papers.`);
       list.innerHTML = '';
       data.forEach(d => {
         const paper = new Paper(d);
@@ -27,11 +34,13 @@ export function PapersView() {
         list.appendChild(item);
       });
     })
-    .catch(() => {
+    .catch((e) => {
+      log('Failed to load papers.json: ' + e);
       list.innerHTML = '<p style="color:red;">Failed to load papers.json</p>';
     });
 
   function showPaperDetail(paper) {
+    log('Showing details for paper: ' + paper.title);
     list.innerHTML = `
       <button id="back-to-list">&larr; Back</button>
       <h3>${paper.title}</h3>

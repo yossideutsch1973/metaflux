@@ -1,15 +1,14 @@
 // app/views/designs.js
 import { Design } from '../models/design.js';
+import { log } from '../main.js';
 
 export function DesignsView() {
   const el = document.createElement('section');
   el.innerHTML = `<h2>Designs</h2><div id="designs-list">Loading...</div>`;
   const list = el.querySelector('#designs-list');
 
-  // Helper: get all JSON files in designs/*/*.json
   async function loadDesigns() {
-    // Try to fetch a manifest if available, else scan known folders
-    // For now, scan a few known subfolders (static, for GitHub Pages)
+    log('Loading design metadata from known folders...');
     const folders = [
       'A_3D-Printed_Metallic-Free_Water-Based_Metamateria',
       'Tunable_3D_printed_composite_metamaterials_with_ne',
@@ -18,36 +17,39 @@ export function DesignsView() {
     let files = [];
     for (const folder of folders) {
       for (let v = 1; v <= 3; ++v) {
-        // Try all geometry types
         const types = ['patch_antenna', 'metamaterial_absorber', 'split_ring_resonator'];
         for (const type of types) {
-          const file = `designs/${folder}/${type}_*v${v}_*.json`;
-          // Try to fetch the file (wildcard not supported, so try known names)
-          // We'll try to fetch by brute force for now
           for (let p of [16, 20, 24, 28, 35, 42]) {
             for (let h of [24, 30, 36, 28, 35, 42]) {
               const f = `designs/${folder}/${type}_${folder.slice(0,8)}_v${v}_${p}mm_${h}mm.json`;
               try {
+                log('Trying to fetch: ' + f);
                 // eslint-disable-next-line no-await-in-loop
                 const resp = await fetch(f);
                 if (resp.ok) {
                   const data = await resp.json();
                   files.push(new Design(data, f));
+                  log('Loaded design: ' + f);
                 }
-              } catch (e) {}
+              } catch (e) {
+                log('Error fetching ' + f + ': ' + e);
+              }
             }
           }
         }
       }
     }
+    log(`Total designs loaded: ${files.length}`);
     return files;
   }
 
   loadDesigns().then(designs => {
     if (!designs.length) {
+      log('No designs found.');
       list.innerHTML = '<p>No designs found.</p>';
       return;
     }
+    log(`Rendering ${designs.length} designs.`);
     list.innerHTML = '';
     designs.forEach(design => {
       const item = document.createElement('div');
@@ -62,6 +64,7 @@ export function DesignsView() {
   });
 
   function showDesignDetail(design) {
+    log('Showing details for design: ' + design.displayTitle);
     list.innerHTML = `
       <button id="back-to-list">&larr; Back</button>
       <h3>${design.displayTitle}</h3>
